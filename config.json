@@ -1,0 +1,38 @@
+{
+    "bot_token": "7844016738:AAFdN1hhEQYzCcfFsvbgiLkZs1AnxsUWrh0",
+    "admin_id": "7524951907",
+    "mandatory_channel": "",
+    "payments": {
+        "uz": {
+            "humo": "9860126659747698 M.M",
+            "uzcard": "5614684605176302 M.M"
+        },
+        "ru": {
+            "phone": "+998777546509"
+        },
+        "kz": {
+            "phone": "+998777546509"
+        }
+    },
+    "products": {
+        "uc": {
+            "60 UC": 12500,
+            "325 UC": 56500,
+            "660 UC": 112000
+        },
+        "rp": {
+            "RP 1-level": 15000,
+            "RP Full": 120000
+        },
+        "packages": {
+            "Monthly pack": 35000,
+            "Weekly pack": 12000
+        }
+    },
+    "users": {
+        "7524951907": {
+            "balance": 0,
+            "action": null
+        }
+    }
+}
